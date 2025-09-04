@@ -6,7 +6,7 @@ const WelcomeLeCrap = function(){
             <p>Site le Crap offers nothing of value.</p>
             <p>It exists simply because it was chosen to exist.</p>
             <p>Site le Crap is utterly useless and wastes valuable resources.</p>
-            <p>Don't be like Site le Crap.</p>
+            <p>Don&apos;t be like Site le Crap.</p>
           </div>
         </div>
     )
