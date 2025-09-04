@@ -9,7 +9,7 @@ const BodyLeCrap = function(){
                 <p className="text-2xl">Want a bad example? Site le Crap.</p>
                 <p className="text-2xl">Want to feel better about your own site? Site le Crap.</p>
                 <p className="text-2xl">Site le Crap is the solution to all fragile egos.</p>
-                <p className="text-2xl">Just remember. there's a guy who pooed himself-</p>
+                <p className="text-2xl">Just remember. there&apos;s a guy who pooed himself-</p>
                 <p className="text-2xl">in public and had their mom clean it up.</p>
             </div>
         </div>
